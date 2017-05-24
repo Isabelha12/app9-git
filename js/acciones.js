@@ -12,7 +12,7 @@ function onDeviceReady(){
 	});
 	
 	$('#watch').on('click',function(){
-		watchposition ();
+		watchPosition ();
 	});
 	
 }
